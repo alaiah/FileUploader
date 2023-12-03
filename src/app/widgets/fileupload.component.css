@@ -1,0 +1,23 @@
+.input_fileupload--hidden {
+    display: none;
+}
+
+.mat-button.mat-primary .mat-button-focus-overlay {
+    background-color: transparent;
+}
+
+.material-icons {
+    font-size: 15px;
+}
+
+.mat-mdc-icon-button.mat-mdc-button-base {
+    width: 15px;
+    height: 15px;
+    padding: 0px;
+}
+
+
+span.mat-mdc-button-touch-target {
+    height: 10px;
+    width: 10px;
+}
